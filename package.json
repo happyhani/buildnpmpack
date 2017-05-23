@@ -1,5 +1,5 @@
 {
-  "name": "hanipack",
+  "name": "hanipack1234567",
   "version": "1.0.0",
   "description": "npmpackage",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/happyhani/buildnpmpack/issues"
   },
-  "homepage": "https://github.com/happyhani/buildnpmpack#readme"
+  "homepage": "https://github.com/happyhani/buildnpmpack#readme",
+  "bin":{
+	  "hani":"./bin/hani.js"
+  }
 }
